@@ -1,0 +1,1 @@
+// JS functionality for signup, login, cart, admin, session
